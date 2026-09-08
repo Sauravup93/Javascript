@@ -166,3 +166,4 @@ console.log(username); // Saurav
 // Scope Chain     → Current → Outer → Global
 // Lexical Scope   → Inner function outer variables access kar sakta hai
 // Shadowing       → Inner same-name variable hides outer one
+
